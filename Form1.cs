@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Aula2_Solucao_Exe3
 {
@@ -31,6 +32,24 @@ namespace Aula2_Solucao_Exe3
             }
 
 
+        }
+
+        private void btnListar_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            string pastas = textBox1.Text;
+            DirectoryInfo diretorio = new DirectoryInfo($@"{pastas}");
+            FileInfo[] arquivos = diretorio.GetFiles("*");
+            foreach (FileInfo fi in arquivos)
+            {
+                listBox1.Items.Add(fi);
+            }
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string mostrar = textBox1.Text + "/";
+            pictureBox1.Image = Image.FromFile(@"" + mostrar + listBox1.Text);
         }
     }
 }
