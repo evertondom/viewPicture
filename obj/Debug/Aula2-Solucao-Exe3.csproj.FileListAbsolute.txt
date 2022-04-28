@@ -1,0 +1,11 @@
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\bin\Debug\Aula2-Solucao-Exe3.exe.config
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\bin\Debug\Aula2-Solucao-Exe3.exe
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\bin\Debug\Aula2-Solucao-Exe3.pdb
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2-Solucao-Exe3.csproj.AssemblyReference.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2-Solucao-Exe3.csproj.SuggestedBindingRedirects.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2_Solucao_Exe3.Form1.resources
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2_Solucao_Exe3.Properties.Resources.resources
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2-Solucao-Exe3.csproj.GenerateResource.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2-Solucao-Exe3.csproj.CoreCompileInputs.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2-Solucao-Exe3.exe
+D:\Cast Group\csharpintermediario\Aula1\Aula2-Solucao-Exe3\obj\Debug\Aula2-Solucao-Exe3.pdb
